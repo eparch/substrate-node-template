@@ -1,10 +1,10 @@
-# Substrate Node Template
+# Vitreo Node Template
 
 A new FRAME-based Substrate node, ready for hacking :rocket:
 
 ## Getting Started
 
-This project contains some configuration files to help get started :hammer_and_wrench:
+This template contains configuration files :hammer_and_wrench:
 
 ### Rust Setup
 
@@ -78,7 +78,7 @@ If you want to see the multi-node consensus algorithm in action, refer to
 
 ## Template Structure
 
-A Substrate project such as this consists of a number of components that are spread across a few
+A project such as this consists of a number of components that are spread across a few
 directories.
 
 ### Node
