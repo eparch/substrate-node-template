@@ -1,6 +1,6 @@
 # Vitreo Node Template
 
-A new FRAME-based Substrate node, ready for hacking :rocket:
+A FRAME-based template for configuring a Substrate based VIT node :rocket:
 
 ## Getting Started
 
